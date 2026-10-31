@@ -1,0 +1,17 @@
+name: Update activity log
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: TheDanniCraft/activity-log@v1
+        with:
+          GITHUB_USERNAME: fanyuzhenfu
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
