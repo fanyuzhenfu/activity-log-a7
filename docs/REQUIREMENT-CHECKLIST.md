@@ -18,8 +18,8 @@
 
 ## O
 
-- [ ] GitHub Actions Pages source enabled after E evidence.
-- [ ] Build, Validate, and Deploy jobs have explicit dependencies.
-- [ ] Deliberate validation failure blocks Deploy.
-- [ ] Previous live site remains available during failure.
-- [ ] Corrected run deploys successfully.
+- [x] GitHub Actions Pages source enabled after E evidence.
+- [x] Build, Validate, and Deploy jobs have explicit dependencies.
+- [x] Deliberate validation failure blocks Deploy.
+- [x] Previous live site remains available during failure.
+- [x] Corrected run deploys successfully.
