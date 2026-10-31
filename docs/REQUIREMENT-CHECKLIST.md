@@ -23,3 +23,10 @@
 - [x] Deliberate validation failure blocks Deploy.
 - [x] Previous live site remains available during failure.
 - [x] Corrected run deploys successfully.
+
+## Final report
+
+- [x] English 16:9 PDF and editable PPTX created.
+- [x] Report contains real Live Site, successful Run, and deliberate failure Run screenshots.
+- [x] Release Safety section included.
+- [x] Reflection is the final page.
