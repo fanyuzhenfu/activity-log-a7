@@ -10,11 +10,11 @@
 
 ## E
 
-- [ ] PAT with expiration created by fanyuzhenfu.
-- [ ] Repository secret `TOKEN` configured.
-- [ ] Activity workflow uses TheDanniCraft/activity-log@v1.
-- [ ] Schedule enabled only after TOKEN verification.
-- [ ] README commit, Pages deployment, and live page linked as evidence.
+- [x] PAT with expiration created by fanyuzhenfu (confirmed by the user; value never read).
+- [x] Repository secret `TOKEN` configured (name confirmed by API; value never read).
+- [x] Activity workflow uses TheDanniCraft/activity-log@v1.
+- [x] Six-hour schedule enabled only after TOKEN verification.
+- [x] Activity Workflow → README commit → Pages build → Live page verified.
 
 ## O
 
