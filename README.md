@@ -12,7 +12,7 @@
 8. 📝 Committed to main in [fanyuzhenfu/activity-log-a5](https://github.com/fanyuzhenfu/activity-log-a5/commit/774a44ce9429ce148e8c128a9c67c137dedaab50)
 9. 📝 Committed to main in [fanyuzhenfu/activity-log-a5](https://github.com/fanyuzhenfu/activity-log-a5/commit/1355d2989e60172a3034ca3b7ef2196330bfec50)
 10. 🎉 Created a new branch master in [fanyuzhenfu/activity-log-a4](https://github.com/fanyuzhenfu/activity-log-a4/tree/master)
-<!-- END_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 This page is published with GitHub Pages for Assignment 7.
 
