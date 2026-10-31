@@ -2,8 +2,11 @@
 
 ## A
 
-- [ ] Public repository and live Pages site verified.
-- [ ] Branch deployment evidence saved.
+- [x] Public repository and live Pages site verified.
+- [x] Pages source is `main` / `/`.
+- [x] Branch-based Pages build is successful.
+- [x] Live URL returns HTTP 200 and renders the Assignment 7 Activity Log page.
+- [ ] Browser screenshot evidence still needs to be captured for the final report.
 
 ## E
 
