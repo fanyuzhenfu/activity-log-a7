@@ -2,16 +2,16 @@
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR #58 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/58)
-2. 🔎 Created PR #58 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/58#pullrequestreview-6075949787)
-3. 📥 Opened PR #58 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/58)
-4. 👤 Assigned issue #57 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/issues/57)
-5. 🆕 Opened issue #57 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/issues/57)
-6. 🔎 Created PR #56 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/56#pullrequestreview-6075818396)
-7. 🔀 Merged PR #52 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/52)
-8. ❌ Closed issue #43 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/issues/43)
-9. 🗣 Commented on issue #43 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/issues/43#issuecomment-7103039356)
-10. 📥 Opened PR #52 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/52)
+1. 🎉 Created a new branch feat/a11-57-experiment-events in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/tree/feat/a11-57-experiment-events)
+2. 🗣 Commented on a review of PR #58 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/58#pullrequestreviewcomment-4709841181)
+3. 🗣 Commented on a review of PR #56 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/56#pullrequestreviewcomment-4709741052)
+4. 🔀 Merged PR #58 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/58)
+5. 🔎 Created PR #58 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/58#pullrequestreview-6075949787)
+6. 📥 Opened PR #58 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/58)
+7. 👤 Assigned issue #57 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/issues/57)
+8. 🆕 Opened issue #57 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/issues/57)
+9. 🔎 Created PR #56 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/56#pullrequestreview-6075818396)
+10. 🔀 Merged PR #52 in [XYSMR/fx-alert](https://github.com/XYSMR/fx-alert/pull/52)
 <!--END_SECTION:activity-->
 
 This page is published with GitHub Pages for Assignment 7.
